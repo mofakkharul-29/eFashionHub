@@ -531,8 +531,11 @@ footer {
     margin: 0;
   }
 /*there is no sizes in main*/
-  .sizes {
-    padding: 10px;
+ .sizes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
   }
   
   .gallery {
