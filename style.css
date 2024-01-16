@@ -530,6 +530,11 @@ footer {
     font-size: 50px;
     margin: 0;
   }
+
+  /*there is no .productButton in main remove it later*/
+ .productButton {
+    background-color: green;
+  } 
 /*there is no sizes in main*/
  .sizes {
     display: flex;
