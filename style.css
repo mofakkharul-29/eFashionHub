@@ -530,7 +530,11 @@ footer {
     font-size: 50px;
     margin: 0;
   }
-
+/*there is no sizes in main*/
+  .sizes {
+    padding: 10px;
+  }
+  
   .gallery {
     display: none;
   }
